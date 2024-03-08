@@ -1,7 +1,7 @@
 # OpenVPN3-Raspberry-Pi-5
 Install of the openvpn3 package on a raspberry pi 5
 
-1. Install nessesary packages
+1. Install necessary packages
 ```bash
 sudo apt-get install apt-transport-https curl -y
 ```
